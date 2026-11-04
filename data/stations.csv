@@ -292,7 +292,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 291,Asda Wellingborough Express Petrol,Esso,1-3 Rossetti Close,Wellingborough,NN8 3FQ,52.29782,-0.73245,0,0,0,0,1,1,0,1,0,1,East Midlands,England
 292,Stepping Stones Self Service,Texaco,"Stepping Stone Self Service, 329, Leeds Road, Ilkley, Ls29 8Nf",Ilkley,LS29 8NF,53.92992,-1.80099,0,0,0,0,0,1,0,0,1,0,Yorkshire and the Humber,England
 293,Top Stewartstown Road,Top Stewartstown Road,Top Garage,Belfast,BT11 9NB,54.56668,-6.01245,1,0,0,0,1,1,0,0,0,0,Northern Ireland,Northern Ireland
-294,Asda Milnrow Express Petrol,Esso,Newhay Road,Rochdale,OL16 4JD,53.60733,-2.10679,0,0,0,0,0,1,0,1,1,0,North West,England
+294,Asda Milnrow Express Petrol,Esso,Newhay Road,Rochdale,OL16 4JD,53.60733,-2.10679,0,0,1,0,0,1,0,1,1,0,North West,England
 295,Sainsburys Bolton,Sainsbury's,Trinity Street,Bolton,BL3 6DH,53.57357,-2.42977,1,0,0,0,0,0,0,1,1,0,North West,England
 296,Chingford Service Station,Gulf,"71-79, Chingford Service Station",London,E4 8LU,51.61073,0.01811,0,0,0,0,0,1,0,1,1,0,London,England
 297,Bp Bathgate Filling Station,BP,1 Edinburgh Road,Bathgate,EH48 1BD,55.89868,-3.63801,0,0,0,0,1,1,0,1,1,0,Scotland,Scotland
@@ -1127,7 +1127,6 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 1127,Maxol Auto 24 Belmont,Maxol,119 - 125 Holywood Road,Belfast,BT4 3BE,54.6003,-5.8805,0,0,0,0,0,0,0,1,0,0,Northern Ireland,Northern Ireland
 1128,Mfg New Wolfe,Esso,Chester Road,Manchester,M32 8NB,53.444,-2.30897,0,0,0,0,0,1,0,1,0,1,North West,England
 1129,Mfg Morrisons Keighley,Morrisons,Beck Street,Keighley,BD21 5JT,53.86322,-1.90768,1,0,0,0,0,1,1,1,1,0,Yorkshire and the Humber,England
-1130,Ray Meader & Sons,Murco,Ray Meader & Sons,Romsey,SO51 9AN,50.99665,-1.46617,0,0,0,0,0,1,0,0,0,0,South East,England
 1131,Mfg Kincardine Bridge,BP,Haughs Of Airth,By Falkirk,FK2 8PF,56.0537,-3.75926,0,0,0,0,1,1,0,1,0,1,Scotland,Scotland
 1132,Eg Bexhill Pfs,EG On The Move,Barnhorn Road,Bexhill-On-Sea,TN39 4QR,50.84544,0.40951,0,0,0,0,0,1,0,1,0,0,South East,England
 1133,Preston Superstore - Petrol Filling Station,Tesco,89-91 Blackpool Road,Preston,PR2 6BX,53.77107,-2.67242,1,0,0,0,0,1,0,0,0,1,North West,England
@@ -8147,3 +8146,4 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 8148,Bridge End Garage,Texaco,"Bridge End Garage, Bridge End, Penistone, Sheffield, S36 7Ah",Sheffield,S36 7AH,53.52946,-1.63455,0,0,0,0,0,1,0,0,0,0,Yorkshire and the Humber,England
 8149,Murco Service Station - Jacksons Service Ltd,Murco,"Jacksons Services Ltd, Jacksons Garage, Summer Lane, Birmingham, B19 3Qg",Birmingham,B19 3QG,52.48856,-1.89962,1,0,0,0,0,1,0,0,1,0,West Midlands,England
 8150,Rankins Filling Station,Pace,Rankins Filling Station,Uig,IV51 9XX,57.5875,-6.37664,1,0,0,0,0,0,0,0,0,0,Scotland,Scotland
+8151,Beath Service Station,Gulf,Beath Service Station 4 High Street,,KY4 9NA,56.1142,-3.34559,0,0,0,0,0,1,0,1,1,1,Scotland,Scotland
