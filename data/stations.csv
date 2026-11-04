@@ -2708,6 +2708,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 2708,St Leonards Sf Connect,BP,176 Ringwood Road,Ringwood,BH24 2NR,50.82889,-1.83879,0,0,0,0,0,1,0,1,0,1,South East,England
 2709,Gem Rudheath,Texaco,King Street,Northwich,CW9 7RT,53.25209,-2.47403,0,0,0,0,1,1,0,0,0,1,North West,England
 2710,Mfg Ewood,Esso,Bolton Road,Blackburn,BB2 4LA,53.72335,-2.48596,0,0,0,0,0,1,0,1,1,0,North West,England
+2711,Astley Service Station,BP,Astley Service Station,,M29 7HX,53.50109,-2.44333,0,0,0,0,1,1,0,1,1,1,North West,England
 2712,Denholm Fishselling Ltd,Denholm Fishselling Ltd,Johnston Bros,Mallaig,PH41 4QD,57.0063,-5.82869,0,0,0,0,0,1,0,0,0,1,Scotland,Scotland
 2713,Nix Service Station,Gulf,Nix Service Station,Newport,TF10 7JR,52.77522,-2.37965,0,0,0,0,0,1,0,0,0,0,West Midlands,England
 2714,Pavilion Service Station,Pavilion Service Station,Pavilion Service Station,Pont-Y-Pwl,NP4 6NR,51.70965,-3.05003,0,0,0,0,0,1,0,0,1,0,Wales,Wales
@@ -8061,7 +8062,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 8063,Bristol Road,Gulf,250,Gloucester,GL1 5TA,51.85075,-2.25807,0,0,0,0,0,1,0,0,1,0,South West,England
 8064,Rishton Lane Service Station,Texaco,G M Petroleum (Preston) Ltd,Bolton,BL3 2BR,53.56118,-2.42826,0,0,0,0,0,1,0,0,1,0,North West,England
 8065,Adams And Sons Ltd,Jet,Adams & Sons Ltd,Oakham,LE15 9DL,52.59292,-0.63688,0,0,0,0,0,1,0,0,0,1,East Midlands,England
-8066,Asda Hatfield Superstore,Asda,98 Town Centre,Hatfield,AL10 0JP,51.76225,-0.22853,1,0,0,0,0,1,0,1,0,1,East of England,England
+8066,Asda Hatfield Superstore,Asda,98 Town Centre,Hatfield,AL10 0JP,51.76225,-0.22853,1,0,1,0,0,1,0,1,0,1,East of England,England
 8067,Asda St James Park Express Petrol,Esso,21 Barrack Road,Newcastle Upon Tyne,NE4 6BA,54.975,-1.626,0,0,0,0,0,1,0,1,1,1,North East,England
 8068,Rontec Peterborough,Esso,Paston Parkway,Peterborough,PE1 4BF,52.59972,-0.21078,0,0,0,0,1,1,0,1,1,1,East of England,England
 8069,Pgg Forfar,Shell,Silvie Way,Forfar,DD8 1BF,56.63447,-2.91994,0,0,0,0,1,1,1,0,0,1,Scotland,Scotland
