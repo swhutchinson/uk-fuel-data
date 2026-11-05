@@ -2721,7 +2721,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 2722,Eg Boston Pfs,EG On The Move,Sleaford Road,Boston,PE21 8EH,52.9774,-0.03358,0,0,0,0,0,1,0,1,0,0,East Midlands,England
 2723,Sainsburys Cannock,Sainsbury's,Voyager Drive,Cannock,WS11 8XP,52.67576,-2.01646,1,0,0,0,0,1,0,0,1,0,West Midlands,England
 2724,Rontec Swanley,BP,Swanley By-Pass,Sidcup,DA14 5JA,51.40966,0.14402,0,0,0,0,1,1,0,1,0,1,London,England
-2725,Asda Casnewydd Express Petrol,Esso,17-25 Chepstow Road,Newport,NP19 8BW,51.591,-2.988,0,0,0,0,0,1,1,1,1,0,Wales,Wales
+2725,Asda Casnewydd Express Petrol,Asda,17-25 Chepstow Road,Newport,NP19 8BW,51.591,-2.988,0,0,0,0,0,1,1,1,1,0,Wales,Wales
 2726,Asda Kingswood Express Petrol,Esso,Cheltenham Road,Cheltenham,GL52 4SA,51.942,-2.065,0,0,0,0,0,1,0,1,1,0,South West,England
 2727,Chatham Road Service Station,Esso,Chatham Road Service Station,Maidstone,ME14 2ND,51.29213,0.51679,0,0,0,0,0,1,0,1,1,1,South East,England
 2728,Cwt Gwyn Cyf,Esso,Cwt Gwyn Cyf,Dolgellau,LL40 2AB,52.74616,-3.8614,0,0,0,0,0,1,0,0,0,1,Wales,Wales
