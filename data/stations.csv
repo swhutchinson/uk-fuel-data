@@ -5184,7 +5184,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 5186,Mfg Measham,Esso,Ashby Road / New Street,Measham / Swadlincote,DE12 7JW,52.70974,-1.50335,0,0,1,0,0,1,0,1,1,1,East Midlands,England
 5187,Jewells Cross Service Station,Jewells Cross Service Station,Jewells Cross Service Station,Holsworthy,EX22 7EY,50.8013,-4.4633,0,0,0,0,0,1,0,0,0,1,South West,England
 5188,Mfg Oyster Lane,BP,111 Oyster Lane,Byfleet,KT14 7JH,51.34638,-0.48058,0,0,0,0,0,1,0,0,1,0,South East,England
-5189,Shell Little Waitrose Broxbourne,Shell,"Shell, 197, High Road, Broxbourne, En10 6Py",Broxbourne,EN10 6PY,-0.02208,51.73796,0,0,0,0,0,1,0,0,0,1,East of England,England
+5189,Shell Little Waitrose Broxbourne,Shell,"Shell, 197, High Road, Broxbourne, En10 6Py",,EN10 6PY,51.73796,-0.02208,0,0,0,0,0,1,0,0,0,1,East of England,England
 5190,Sunningvale Service Station,Sunningvale Service Station,"Sunningvale Service Station, Sunningvale Avenue, Biggin Hill, Westerham, Tn16 3Tl",Westerham,TN16 3TL,51.30795,0.03256,0,0,0,0,0,0,0,0,0,0,South East,England
 5191,Kirks Korner Ltd,Kirks Korner Ltd,Kirks Korner,Scunthorpe,DN15 8DR,53.59834,-0.67984,0,0,0,0,1,0,0,0,0,0,Yorkshire and the Humber,England
 5192,Mile End Service Station,Esso,Mile End Service Station,Castell-Nedd,SA11 2ED,51.65228,-3.81396,0,0,0,0,0,1,0,1,1,1,Wales,Wales
@@ -6540,7 +6540,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 6542,Mfg Horley,Esso,Povey Cross Road,Horley,RH6 0AD,51.16718,-0.17832,0,0,0,0,1,1,0,1,1,1,South East,England
 6543,Sheepscar Esso Express,Esso,98 Roundhay Rd,Leeds,LS7 1QR,53.81025,-1.52668,0,0,0,0,0,1,0,0,0,0,Yorkshire and the Humber,England
 6544,Mfg Worthing,Esso,Sompting Avenue,Worthing,BN14 8HP,50.82737,-0.36829,0,0,0,0,0,1,0,0,1,0,South East,England
-6545,Shell Middlewich Svcs,Shell,"Shell, Holmes Chapel Road, Middlewich, Cw10 0Jb",Middlewich,CW10 0JB,-2.43333,53.19525,0,0,0,0,1,1,0,1,0,1,North West,England
+6545,Shell Middlewich Svcs,Shell,"Shell, Holmes Chapel Road, Middlewich, Cw10 0Jb",,CW10 0JB,53.19525,-2.43333,0,0,0,0,1,1,0,1,0,1,North West,England
 6546,Asda Lawnswood Express Petrol,Esso,Otley Road,Leeds,LS16 8AA,53.849,-1.592,0,0,0,0,0,1,0,1,0,0,Yorkshire and the Humber,England
 6547,Moutrays Dollingstown,Teaxco,"83C, Belfast Road, Lurgan, Craigavon, Bt66 7Js",Craigavon,BT66 7JS,54.46226,-6.2907,1,0,0,0,0,0,0,0,0,0,Northern Ireland,Northern Ireland
 6548,Mfg Lobley Hill,Esso,Lobley Hill Road,Gateshead,NE11 0UH,54.94426,-1.62553,0,0,0,0,1,1,0,1,1,1,North East,England
