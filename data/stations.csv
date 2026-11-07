@@ -3993,7 +3993,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 3995,Totnes Cross Filling Station,Esso,Totnes Cross Service Station,Totnes,TQ9 7JG,50.36001,-3.71587,0,0,0,0,0,1,0,0,1,1,South West,England
 3996,Garstang Sf Connect,BP,Garstang By Pass Road,Preston,PR3 0HQ,53.88193,-2.78103,0,0,0,0,0,1,0,1,1,1,North West,England
 3997,Shell Tong Road,Shell,147 Tong Road,Leeds,LS12 1QJ,53.7934,-1.5914,0,0,0,0,0,1,0,1,1,1,Yorkshire and the Humber,England
-3998,Mfg Fosseway,Independent,Lower Slaughter,Bourton-On-The-Water,GL54 2EY,51.90012,-1.74982,0,0,1,0,0,1,0,0,0,0,South West,England
+3998,Mfg Fosseway,Independent,Lower Slaughter,Bourton-On-The-Water,GL54 2EY,51.90012,-1.74982,0,0,0,0,0,1,0,0,0,0,South West,England
 3999,Asda Pentwyn Superstore,Asda,"8 Dering Road, Pontprennau",Cardiff,CF23 8NL,51.5353,-3.12984,1,0,0,0,0,1,0,0,0,1,Wales,Wales
 4000,Brooke'S - North Road Garage,Gulf,Brookes,York,YO30 1AL,54.03347,-1.16342,0,0,0,0,0,1,0,1,0,0,Yorkshire and the Humber,England
 4001,Asda Linacre Lane Express Petrol,Esso,Linacre Lane,Sefton,L20 5AG,53.45906,-2.99081,0,0,0,0,0,1,0,1,0,1,North West,England
@@ -5181,7 +5181,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 5183,Sainsburys Halifax,Sainsbury's,Wade Street,Halifax,HX1 1SB,53.72649,-1.85498,1,0,0,0,0,1,0,0,1,0,Yorkshire and the Humber,England
 5184,Wexham,BP,Bp Oil Uk Ltd,Slough,SL2 5QY,51.51856,-0.57877,0,0,0,0,1,1,0,1,1,0,South East,England
 5185,Moredun Garage,Moredun Garage,Moredun Garage,Alston,CA9 3HZ,54.81359,-2.44172,0,0,0,0,0,1,0,0,0,1,North West,England
-5186,Mfg Measham,Esso,Ashby Road / New Street,Measham / Swadlincote,DE12 7JW,52.70974,-1.50335,0,0,1,0,0,1,0,1,1,1,East Midlands,England
+5186,Mfg Measham,Esso,Ashby Road / New Street,Measham / Swadlincote,DE12 7JW,52.70974,-1.50335,0,0,0,0,0,1,0,1,1,1,East Midlands,England
 5187,Jewells Cross Service Station,Jewells Cross Service Station,Jewells Cross Service Station,Holsworthy,EX22 7EY,50.8013,-4.4633,0,0,0,0,0,1,0,0,0,1,South West,England
 5188,Mfg Oyster Lane,BP,111 Oyster Lane,Byfleet,KT14 7JH,51.34638,-0.48058,0,0,0,0,0,1,0,0,1,0,South East,England
 5189,Shell Little Waitrose Broxbourne,Shell,"Shell, 197, High Road, Broxbourne, En10 6Py",,EN10 6PY,51.73796,-0.02208,0,0,0,0,0,1,0,0,0,1,East of England,England
