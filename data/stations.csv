@@ -5276,7 +5276,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 5278,Central Convenience - Milbourne Port,Central Convenience,Sherbourne Road,Sherbourne,DT9 5AU,50.96501,-2.4678,0,0,0,0,0,1,0,0,0,0,South West,England
 5279,Mfg Leven,BP,Windygates Road,Leven,KY8 4AX,56.19856,-3.02031,0,0,0,0,0,1,0,1,1,1,Scotland,Scotland
 5280,Shellknowe Garage,Shell,Shellknowe Garage,Girvan,KA26 0NA,55.10041,-5.00424,0,0,0,0,0,0,0,1,1,0,Scotland,Scotland
-5281,Southlea Services Ltd,Murco,Southlea Services,South Molton,EX36 3QU,51.00581,-3.46274,0,0,0,0,0,0,0,1,0,0,South West,England
+5281,Southlea Services Ltd,Murco,Southlea Services,,EX36 3QU,51.00577,-3.46271,0,0,0,0,0,0,0,1,0,0,South West,England
 5282,Port Fuels Service Station,Port Fuels Service Station,124,Lisburn,BT27 6YW,54.48686,-5.97623,1,0,0,0,1,0,0,1,0,0,Northern Ireland,Northern Ireland
 5283,Maxol Ballyholme,Maxol,2 Ballyholme Road,Bangor,BT20 5JJ,54.6633,-5.6606,1,0,0,0,0,1,0,0,0,0,Northern Ireland,Northern Ireland
 5284,Asda Harlescott Express Petrol,Esso,Harlescott Ln,Shrewsbury,SY1 3AP,52.73846,-2.73064,0,0,0,0,0,1,0,1,0,0,West Midlands,England
