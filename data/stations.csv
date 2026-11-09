@@ -3574,7 +3574,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 3575,Nisa Crossfield Garage,Nisa,Crossfield Garage,Cleator Moor,CA25 5QA,54.52438,-3.52544,1,0,0,0,0,1,0,0,1,0,North West,England
 3576,Asda Sandford Express Petrol,Texaco,Sandford Road,Wareham,BH20 7AQ,50.70626,-2.10013,0,0,0,0,0,1,0,0,0,1,South West,England
 3577,Mfg Ollerton,Esso,Old Rufford Road,Ollerton,NG22 9DT,53.2,-1.02637,0,0,0,0,1,1,0,1,1,1,East Midlands,England
-3578,Bury Street Sf Connect,BP,Bury Street,Ruislip,HA4 7TW,51.58798,-0.43654,0,0,0,0,0,1,0,1,0,1,London,England
+3578,Bury Street Sf Connect,Bury Street Sf Connect,Bury Street,Ruislip,HA4 7TW,51.58798,-0.43654,0,0,1,0,0,1,0,1,0,1,London,England
 3579,Sainsburys Braehead,Sainsbury's,110 Kings Inch Drive,Glasgow,G51 4BT,55.87149,-4.35662,1,0,0,0,0,1,0,0,0,0,Scotland,Scotland
 3580,Gem Lovely Lane,Texaco,Lovely Lane Filling Station,Warrington,WA5 1PH,53.39456,-2.61254,0,0,0,0,0,1,0,1,0,0,North West,England
 3581,Ashby De La Zouch Extra - Petrol Filling Station,Tesco,Tesco Stores Ltd,Ashby-De-La-Zouch,LE65 1TE,52.75302,-1.45285,1,0,0,0,0,1,0,1,0,1,East Midlands,England
@@ -5949,7 +5949,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 5951,C. J. Eley & Co,BP,C J Eley & Co,Braintree,CM7 9EP,51.88074,0.5626,0,0,0,0,0,0,0,0,0,0,East of England,England
 5952,Shell Sedgemoor South,Shell,M5 South Motorway,Axbridge,BS26 2UF,51.26775,-2.92082,0,1,0,0,1,1,0,1,1,1,South West,England
 5953,Tagon Stores,Tagon Stores,"Tagon Stores, Voe, Shetland, Ze2 9Pt",Shetland,ZE2 9PT,60.35567,-1.26263,0,0,0,0,0,1,0,0,0,0,Scotland,Scotland
-5954,Kettering West Sf Connect,BP,A14 Westbound,Kettering,NN14 1RW,52.38014,-0.73005,0,0,0,0,1,1,0,1,0,1,East Midlands,England
+5954,Kettering West Sf Connect,Kettering West Sf Connect,A14 Westbound,Kettering,NN14 1RW,52.38014,-0.73005,0,0,0,0,1,1,0,1,0,1,East Midlands,England
 5955,Gem Ryhope Road,Shell,Ryhope Road,Sunderland,SR2 7ST,54.89285,-1.37621,0,0,0,0,0,1,0,0,0,1,North East,England
 5956,Asda Fenton Express Petrol,Esso,King Street,Stoke-On-Trent,ST4 2LT,52.99745,-2.15715,0,0,0,0,1,1,0,1,0,1,West Midlands,England
 5957,Sidcup Filling Station,Harvest Energy,W J King Garages Ltd,Sidcup,DA14 6PA,51.42716,0.09605,0,0,0,0,0,1,0,1,0,0,London,England
