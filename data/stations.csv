@@ -308,7 +308,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 307,Costco Wholesale Haydock,Costco,Andover Road,Haydock,WA11 9FA,53.47463,-2.66282,0,0,0,0,0,1,0,0,0,1,North West,England
 308,Lanark Fuel Express Automat,Gulf,West Port,Lanark,ML11 9HE,55.67491,-3.78468,0,0,0,0,0,0,0,1,0,0,Scotland,Scotland
 309,Asda Stockport Express Petrol,Esso,297-309 Buxton Road,Stockport,SK2 7NR,53.38923,-2.13822,0,0,0,0,0,1,0,1,0,0,North West,England
-310,Telford Extra - Petrol Filling Station,Tesco,Wrekin Retail Park,Telford,TF1 2DE,52.68972,-2.49249,1,0,1,0,0,1,0,1,1,1,West Midlands,England
+310,Telford Extra - Petrol Filling Station,Tesco,Wrekin Retail Park,Telford,TF1 2DE,52.68972,-2.49249,1,0,0,0,0,1,0,1,1,1,West Midlands,England
 311,Asda Wembury Road Express Petrol,Asda,Wembury Road,Plymouth,PL9 0DF,50.35128,-4.07588,0,0,0,0,0,1,0,0,0,0,South West,England
 312,Mfg Peveril,Esso,Sheffield Road,Chesterfield,S41 8JZ,53.25093,-1.42887,0,0,0,0,0,1,0,1,1,0,East Midlands,England
 313,Asda Chadderton,Asda,"Milne Street, Chadderton",Oldham,OL9 0JE,53.54515,-2.14,1,0,0,0,0,1,0,1,0,1,North West,England
