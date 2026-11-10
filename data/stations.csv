@@ -5824,7 +5824,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 5827,Rontec Precinct,Esso,Link Road,Yate,BS37 4AY,51.53906,-2.40987,0,0,0,0,0,1,0,1,1,0,South West,England
 5828,Shell Co-Op Princess Parkway,Shell,Princess Road,Whalley Range,M14 7LU,53.44878,-2.24503,0,0,0,0,0,1,0,1,0,1,North West,England
 5829,Camstone Service Station,Texaco,Camstone Service Station,Leicester,LE8 6LG,52.56203,-1.18186,1,0,0,0,0,1,0,0,1,0,East Midlands,England
-5830,Mfg Telford,Jet,Bridgnorth Road,Sutton Hill / Telford,TF7 4JG,52.6309,-2.43321,0,0,1,0,0,1,0,1,1,1,West Midlands,England
+5830,Mfg Telford,Jet,Bridgnorth Road,Sutton Hill / Telford,TF7 4JG,52.6309,-2.43321,0,0,0,0,0,1,0,1,1,1,West Midlands,England
 5831,Cheltenham Service Station,Texaco,Texaco,Cheltenham,GL50 2JA,51.89343,-2.09023,0,0,0,0,0,1,0,1,0,1,South West,England
 5832,Mfg Salthouse,Esso,154 Old Church Road,Clevedon,BS21 7TU,51.43464,-2.86482,0,0,0,0,0,1,0,0,1,0,South West,England
 5833,Clarks Garage Walkern Ltd,Clarks Garage Walkern Ltd,105,Stevenage,SG2 7NU,51.91745,-0.12749,0,0,0,0,0,1,0,0,0,0,East of England,England
@@ -8149,3 +8149,4 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 8152,Normanton Service Station,Murco,"Normanton Service Station, Service Station, Dairy House Road, Derby, De23 8Hq",Derby,DE23 8HQ,52.90493,-1.47402,0,0,0,0,0,1,0,0,0,0,East Midlands,England
 8153,Martock Service Station,Texaco,"Yandles Garage Ltd, 131, North Street, Martock, Ta12 6Er",Martock,TA12 6ER,50.97671,-2.76689,0,0,0,0,0,1,0,0,1,0,South West,England
 8154,Bridge Service Station,Bridge Service Station,"Bridge Service Station, 15, Bloxwich Road North, Willenhall, Wv12 5Pg",Willenhall,WV12 5PG,52.6032,-2.03602,0,0,0,0,0,1,0,0,0,1,West Midlands,England
+8155,Bernera Community Association,Bernera Community Association,"Bernera Community Hall, Breaclete, Bernera, Isle Of Lewis, Hs2 9Lt",Isle Of Lewis,HS2 9LT,58.22803,-6.84175,0,0,0,0,0,0,0,1,0,0,Scotland,Scotland
