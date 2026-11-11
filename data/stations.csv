@@ -289,7 +289,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 288,Mfg Feering,Esso,A12 Feering,Feering / Colchester,CO5 9EL,51.85311,0.73231,0,0,0,0,1,1,0,1,0,1,East of England,England
 289,Gulf Derby Island Service Station,Gulf,Island Filling Station Ltd,Derby,DE24 0DU,52.89722,-1.42799,0,0,0,0,0,1,0,1,1,1,East Midlands,England
 290,Eg Basildon Pfs,EG On The Move,Summerhill Service Station,Basildon,SS14 3AS,51.59204,0.47907,0,0,0,0,0,1,0,1,0,0,East of England,England
-291,Asda Wellingborough Express Petrol,Esso,1-3 Rossetti Close,Wellingborough,NN8 3FQ,52.29782,-0.73245,0,0,0,0,1,1,0,1,0,1,East Midlands,England
+291,Asda Wellingborough Express Petrol,Asda,1-3 Rossetti Close,Wellingborough,NN8 3FQ,52.29782,-0.73245,0,0,0,0,1,1,0,1,0,1,East Midlands,England
 292,Stepping Stones Self Service,Texaco,"Stepping Stone Self Service, 329, Leeds Road, Ilkley, Ls29 8Nf",Ilkley,LS29 8NF,53.92992,-1.80099,0,0,0,0,0,1,0,0,1,0,Yorkshire and the Humber,England
 293,Top Stewartstown Road,Top Stewartstown Road,Top Garage,Belfast,BT11 9NB,54.56668,-6.01245,1,0,0,0,1,1,0,0,0,0,Northern Ireland,Northern Ireland
 294,Asda Milnrow Express Petrol,Esso,Newhay Road,Rochdale,OL16 4JD,53.60733,-2.10679,0,0,1,0,0,1,0,1,1,0,North West,England
@@ -1107,7 +1107,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 1107,Chatburn Fuel Express Automat,Gulf,Clitheroe Road,Clitheroe,BB7 4JY,53.8872,-2.3602,0,0,0,0,0,0,0,1,0,0,North West,England
 1108,Mfg Morrisons Wellington,Morrisons,Spring Hill,Wellington,TF1 1RP,52.7027,-2.52363,1,0,0,0,0,1,0,0,1,0,West Midlands,England
 1109,Asda Great Bridge Supercentre,Asda,Brickhouse Lane,Tipton,DY4 7HW,52.53069,-2.03098,1,0,0,0,0,1,0,1,1,1,West Midlands,England
-1110,Upper Batley Ss,BP,Spar Stores,Batley,WF17 5LW,53.71472,-1.62892,0,0,0,0,1,1,0,1,1,0,Yorkshire and the Humber,England
+1110,Upper Batley Ss,BP,Upper Batley S.Stn,Batley,WF17 5LW,53.71472,-1.62892,0,0,0,0,1,1,0,1,1,0,Yorkshire and the Humber,England
 1111,Rontec Darland,Esso,149-151 Watling Street,Gillingham,ME7 2YY,51.37214,0.55972,0,0,0,0,0,1,0,1,1,1,South East,England
 1112,South Elmsall S Stn,Shell,Minsthorpe Garage Ltd,Pontefract,WF9 2PH,53.59977,-1.29489,0,0,0,0,1,1,0,0,1,0,Yorkshire and the Humber,England
 1113,Rontec Norden,Esso,Edenfield Road,Rochdale,OL11 5XR,53.62233,-2.19907,0,0,0,0,0,1,0,0,0,0,North West,England
@@ -1843,7 +1843,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 1845,Mfg Downfields,Esso,Fordham Road,Soham,CB7 5AJ,52.3197,0.36115,0,0,0,0,0,1,0,1,0,1,East of England,England
 1846,Hereford Abbotsmead Rd Superstore - Petrol Filling Station,Tesco,"Tesco Stores Ltd, Abbotsmead Road",Hereford,HR2 7XS,52.04218,-2.74003,1,0,0,0,0,1,0,0,1,1,West Midlands,England
 1847,Cromwell Garage,Cromwell Garage,Cromwell Garage Ltd,Coventry,CV4 9HN,52.39785,-1.58055,0,0,0,0,0,1,0,0,0,1,West Midlands,England
-1848,Asda Crediton Express Petrol,Esso,Exeter Road,Crediton,EX17 3BN,50.784,-3.647,0,0,0,0,0,1,0,1,1,0,South West,England
+1848,Asda Crediton Express Petrol,Asda,Exeter Road,Crediton,EX17 3BN,50.784,-3.647,0,0,0,0,0,1,0,1,1,0,South West,England
 1849,Rotherham Wortley Rd Esso Express,Esso,Wortley Rd,Rotherham,S61 1LH,53.43518,-1.38215,0,0,0,0,0,1,0,0,0,0,Yorkshire and the Humber,England
 1850,Prysor Service Station Ltd,Essar,Prysor Service Station,Blaenau Ffestiniog,LL41 4TW,52.90203,-3.91782,0,0,0,0,0,1,1,0,0,1,Wales,Wales
 1851,Circle K Beersbridge Road,Circle K,323-329 Beersbridge Road,Belfast,BT5 5DS,54.59251,-5.88953,1,0,0,0,0,0,0,0,0,0,Northern Ireland,Northern Ireland
@@ -2852,7 +2852,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 2854,Eg Refill Pfs,EG On The Move,Blackburn Road,Bolton,BL1 7LR,53.60981,-2.43158,0,0,0,0,0,1,0,1,0,0,North West,England
 2855,Shell Whitechapel,Shell,139-149 Whitechapel Road,London,E1 1DT,51.51802,-0.06538,0,0,0,0,0,1,0,1,0,1,London,England
 2856,Mfg Commandery,Esso,20 Bath Road,Worcester,WR5 3EL,52.1859,-2.21775,0,0,0,0,0,1,0,1,1,0,West Midlands,England
-2857,Asda Rainhill Express Petrol,Esso,Warrington Road,Liverpool,L35 9JB,53.418,-2.775,0,0,0,0,0,1,0,0,1,0,North West,England
+2857,Asda Rainhill Express Petrol,Asda,Warrington Road,Liverpool,L35 9JB,53.418,-2.775,0,0,0,0,0,1,0,0,1,0,North West,England
 2858,Mfg Bridgeman,BP,19 Bridgeman Place,Bolton,BL2 1DE,53.57525,-2.42303,0,0,0,0,0,1,0,1,0,1,North West,England
 2859,Greenock Extra - Petrol Filling Station,Tesco,Dalrymple Street,Greenock,PA15 1LE,55.9496,-4.75754,1,0,0,0,0,1,0,1,0,1,Scotland,Scotland
 2860,Pegwellbay Service Station,Pegwellbay Service Station,Pegwell Bay Service Station,Ramsgate,CT12 5JB,51.32502,1.36501,0,0,0,0,0,1,0,0,1,0,South East,England
@@ -3089,7 +3089,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 3091,Cedar Motors Ltd,Cedar Motors Ltd,Cedar Motors,Leicester,LE9 8BQ,52.57001,-1.33282,0,0,0,0,0,1,0,0,0,1,East Midlands,England
 3092,Ashwal Garage,BP,Ashwal Garage Ltd,Cranbrook,TN17 2HR,51.10898,0.54692,1,0,0,0,0,1,0,0,1,1,South East,England
 3093,Royston Extra - Petrol Filling Station,Tesco,Tesco Stores Ltd,Royston,SG8 5UA,52.05923,-0.0328,1,0,0,0,0,1,0,1,1,1,East of England,England
-3094,Asda Taunton Express Petrol,Esso,Priory Bridge Road,Taunton,TA1 1QD,51.019,-3.095,0,0,0,0,0,1,0,1,0,0,South West,England
+3094,Asda Taunton Express Petrol,Asda,Priory Bridge Road,Taunton,TA1 1QD,51.019,-3.095,0,0,0,0,0,1,0,1,0,0,South West,England
 3095,Karan Bapchild Service Station,BP,Bapchild Service Station,Sittingbourne,ME9 9PP,51.33358,0.7716,1,0,0,0,0,1,0,0,1,0,South East,England
 3096,Meadowvale,Jet,"Meadow Vale Garage, Betws Road, Llanrwst, Ll26 0Pp",Llanrwst,LL26 0PP,53.12878,-3.78597,1,0,0,0,0,1,0,0,1,1,Wales,Wales
 3097,Elite Garages Odiham,Texaco,Odiham Service Station,Hook,RG29 1DT,51.25386,-0.94576,0,0,0,0,0,1,0,0,0,0,South East,England
@@ -3712,7 +3712,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 3715,Synod Garage,Murco,Garej Synod Garage,Llandysul,SA44 6JE,52.16558,-4.33655,0,0,0,0,0,0,0,0,0,0,Wales,Wales
 3716,Pgg Regatta,Shell,167 Reading Road,Henley On Thames,RG9 1DP,51.53066,-0.8994,0,0,0,0,0,1,0,1,1,0,South East,England
 3717,Pgg Yeoman,Shell,134 Ashford Road,Maidstone,ME14 4NA,51.26708,0.57345,0,0,0,0,0,1,0,0,1,0,South East,England
-3718,Asda Heston Express Petrol,Esso,Heston Road,Hounslow,TW5 0RG,51.48843,-0.37164,0,0,0,0,0,1,0,1,0,0,London,England
+3718,Asda Heston Express Petrol,Asda,Heston Road,Hounslow,TW5 0RG,51.48843,-0.37164,0,0,0,0,0,1,0,1,0,0,London,England
 3719,Mfg Downside,Esso,Station Road,Gomshall / Guildford,GU5 9LQ,51.22114,-0.44968,0,0,0,0,0,1,0,0,0,0,South East,England
 3720,Go Armagh,Go,"49A, Railway Street, Armagh, Bt61 7Hp",Armagh,BT61 7HP,54.35414,-6.65471,0,0,0,0,1,0,0,1,1,0,Northern Ireland,Northern Ireland
 3721,Pgg Hadfield Rd,Valero,Hadfield Road,Cardiff,CF11 8WD,51.46561,-3.19972,0,0,0,0,0,1,0,1,0,0,Wales,Wales
@@ -3992,7 +3992,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 3995,Totnes Cross Filling Station,Esso,Totnes Cross Service Station,Totnes,TQ9 7JG,50.36001,-3.71587,0,0,0,0,0,1,0,0,1,1,South West,England
 3996,Garstang Sf Connect,BP,Garstang By Pass Road,Preston,PR3 0HQ,53.88193,-2.78103,0,0,0,0,0,1,0,1,1,1,North West,England
 3997,Shell Tong Road,Shell,147 Tong Road,Leeds,LS12 1QJ,53.7934,-1.5914,0,0,0,0,0,1,0,1,1,1,Yorkshire and the Humber,England
-3998,Mfg Fosseway,Independent,Lower Slaughter,Bourton-On-The-Water,GL54 2EY,51.90012,-1.74982,0,0,1,0,0,1,0,0,0,0,South West,England
+3998,Mfg Fosseway,Independent,Lower Slaughter,Bourton-On-The-Water,GL54 2EY,51.90012,-1.74982,0,0,0,0,0,1,0,0,0,0,South West,England
 3999,Asda Pentwyn Superstore,Asda,"8 Dering Road, Pontprennau",Cardiff,CF23 8NL,51.5353,-3.12984,1,0,0,0,0,1,0,0,0,1,Wales,Wales
 4000,Brooke'S - North Road Garage,Gulf,Brookes,York,YO30 1AL,54.03347,-1.16342,0,0,0,0,0,1,0,1,0,0,Yorkshire and the Humber,England
 4001,Asda Linacre Lane Express Petrol,Esso,Linacre Lane,Sefton,L20 5AG,53.45906,-2.99081,0,0,0,0,0,1,0,1,0,1,North West,England
@@ -4450,7 +4450,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 4453,Shell Chesham,Shell,Vale Road,Chesham,HP5 2AU,51.717,-0.60685,0,0,0,0,0,1,0,0,1,1,South East,England
 4454,Nelson,Shell,Manchester Road,Nelson,BB9 7AJ,53.83268,-2.2218,0,0,0,0,0,1,0,1,0,1,North West,England
 4455,Beltons Auto Service,Beltons Auto Service,Beltons Autoservice,Skegness,PE24 5RF,53.23081,0.33529,0,0,0,0,0,0,0,0,0,0,East Midlands,England
-4456,Mfg Cricklewood,Esso,374 Edgware Road,Cricklewood,NW2 6ND,51.56408,-0.2229,0,0,1,0,0,1,0,1,1,0,London,England
+4456,Mfg Cricklewood,Esso,374 Edgware Road,Cricklewood,NW2 6ND,51.56408,-0.2229,0,0,0,0,0,1,0,1,1,0,London,England
 4457,Ascona Kingswell Service Station,Shell,36 Old Perth Road,Inverness,IV2 3RH,57.47299,-4.19828,0,0,0,0,0,1,0,0,1,0,Scotland,Scotland
 4458,Frost Service Station,Jet,"Frost Filling Station, 310, Rochester Road, Burham, Rochester, Me1 3Rl",Rochester,ME1 3RL,51.33349,0.47851,1,0,0,0,0,1,0,0,0,0,South East,England
 4459,Broadway Motors,BP,Broadway Motors,Wantage,OX12 8BB,51.58837,-1.42192,0,0,0,0,0,1,0,0,1,1,South East,England
@@ -5209,7 +5209,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 5212,Staddons Service Station,Gulf,Staddons Garages,Budleigh Salterton,EX9 6LQ,50.62939,-3.32538,0,0,0,0,0,1,0,0,0,0,South West,England
 5213,Kiln Park Service Station,Kiln Park Service Station,Kiln Park Garage,Dinbych-Y-Pysgod,SA70 7RA,51.66904,-4.72353,1,0,0,0,0,0,0,1,1,1,Wales,Wales
 5214,Eg Wigston Pfs,BP,Oadby Road,Wigston,LE18 3QJ,52.58986,-1.09638,0,0,0,0,0,1,0,0,0,0,East Midlands,England
-5215,Asda Stubbington Express Petrol,Esso,Stubbington Lane,Fareham,PO14 2PN,50.821,-1.214,0,0,0,0,0,1,0,0,0,0,South East,England
+5215,Asda Stubbington Express Petrol,Asda,Stubbington Lane,Fareham,PO14 2PN,50.821,-1.214,0,0,0,0,0,1,0,0,0,0,South East,England
 5216,Asda Llandudno Superstore,Asda,Conway Road,Llandudno,LL30 1PJ,53.3198,-3.82298,1,0,0,0,0,1,0,1,0,1,Wales,Wales
 5217,Sainsburys Coldhams Lane,Sainsbury's,Brooks Road,Cambridge,CB1 3HP,52.20027,0.15846,1,0,0,0,0,1,0,0,0,0,East of England,England
 5218,Mfg Cherwell,BP,Cherwell Drive,Oxford,OX3 0NA,51.76758,-1.23206,0,0,0,0,0,1,0,1,0,0,South East,England
@@ -5845,7 +5845,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 5848,Mfg Highgate,BP,A268 Rye Road,Hawkhurst,TN18 4HD,51.045,0.52632,0,0,0,0,0,1,0,0,1,0,South East,England
 5849,Shell Little Waitrose Thurcaston,Shell,A46/A6 A46/A6 Trunk Road,Birstall,LE4 3BT,52.69058,-1.12702,0,1,0,0,1,1,0,1,1,1,East Midlands,England
 5850,Huntley Services,Valero,General Garage,Gloucester,GL19 3EA,51.87103,-2.39734,0,0,0,0,0,1,0,0,1,1,South West,England
-5851,Asda Crest Express Petrol,Esso,320 Handsworth Road,Sheffield,S13 9BX,53.373,-1.39,0,0,0,0,0,1,1,1,1,0,Yorkshire and the Humber,England
+5851,Asda Crest Express Petrol,Asda,320 Handsworth Road,Sheffield,S13 9BX,53.373,-1.39,0,0,0,0,0,1,1,1,1,0,Yorkshire and the Humber,England
 5852,Lr & Ja Allen,Esso,L R & J A Allens Garage,Wigton,CA7 3HB,54.7638,-3.33268,0,0,0,0,0,1,0,0,0,0,North West,England
 5853,Br Ashgate,Spar,Spar Stores,Chesterfield,S40 4AQ,53.23897,-1.44568,0,0,0,0,0,1,0,1,1,0,East Midlands,England
 5854,Bullionfield Sf Connect,BP,Invergowie,Dundee,DD2 5EG,56.46163,-3.07406,0,0,0,0,1,1,0,1,0,1,Scotland,Scotland
@@ -6299,7 +6299,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 6302,Asda Wakefield Superstore,Asda,Asdale Road,Wakefield,WF2 7EQ,53.64972,-1.49913,1,0,0,0,0,1,0,1,0,1,Yorkshire and the Humber,England
 6303,Alexander And Robertson Mechanical Engineering And Recovery Services Ltd,A & R Ltd,A And R Ltd,Castletown,KW14 8TU,58.5908,-3.38376,0,0,0,0,0,1,0,1,1,0,Scotland,Scotland
 6304,Asda Wolverhampton Superstore,Asda,Jack Hayward Way - Waterloo Road,Wolverhampton,WV1 4DE,52.59243,-2.13103,1,0,0,0,0,1,0,1,1,1,West Midlands,England
-6305,Asda Stourbridge Express Petrol,Esso,156 Hagley Road,Dudley,DY8 2JL,52.446,-2.14,0,0,0,0,0,1,0,1,1,0,West Midlands,England
+6305,Asda Stourbridge Express Petrol,Asda,156 Hagley Road,Dudley,DY8 2JL,52.446,-2.14,0,0,0,0,0,1,0,1,1,0,West Midlands,England
 6306,Asda Hazel Grove Express Petrol,BP,Buxton Road,Stockport,SK7 6AF,53.37347,-2.10893,0,0,0,0,1,1,0,1,1,1,North West,England
 6307,Shell Ossett,Shell,Wakefield Road,Ossett,WF5 9AD,53.68168,-1.54851,0,0,0,0,0,1,0,1,1,1,Yorkshire and the Humber,England
 6308,Mfg Falmouth,Esso,60 Dracaena Avenue,Falmouth,TR11 2EJ,50.1554,-5.08181,0,0,0,0,0,1,0,1,0,1,South West,England
@@ -6895,7 +6895,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 6898,Asda Singing Kettle S/Stn Express Petrol,BP,St Asaph Road,Holywell,CH8 8RD,53.27498,-3.29274,0,0,0,0,1,1,0,1,1,1,Wales,Wales
 6899,Shell Boarshead Petrol Station Ltd,Boarshead Petrol Station Ltd,Boars Head Service Station,,WN6 0AE,53.5729,-2.64117,0,0,0,0,0,1,0,0,0,0,North West,England
 6900,Stourbridge Sf Connect,BP,Hagley Road,Stourbridge,DY8 2JL,52.44616,-2.13997,0,0,0,0,0,1,0,0,0,1,West Midlands,England
-6901,Asda Eastville Park Express Petrol,Esso,Muller Road,Bristol,BS5 6PX,51.47388,-2.55492,0,0,0,0,0,1,0,1,0,0,South West,England
+6901,Asda Eastville Park Express Petrol,Valero,Muller Road,Bristol,BS5 6PX,51.47388,-2.55492,0,0,0,0,0,1,0,1,0,0,South West,England
 6902,Ord Service Station,Esso,Ord Filling Station,Muir Of Ord,IV6 7XR,57.51987,-4.46177,1,0,0,0,0,1,0,0,0,0,Scotland,Scotland
 6903,Eg Barnstaple Pfs,EG On The Move,Roundswell Roundabout,Barnstaple,EX31 3NP,51.06187,-4.08178,0,0,0,0,0,1,0,1,0,0,South West,England
 6904,Mfg Weeley,BP,Colchester Road,Weeley,CO16 9AD,51.85944,1.10251,0,0,0,0,1,1,0,1,1,1,East of England,England
@@ -7287,7 +7287,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 7290,Spar Killicomaine,Maxol,117 Killycomain Road,Portadown,BT63 5JH,54.42779,-6.41915,1,0,0,0,0,1,0,0,0,1,Northern Ireland,Northern Ireland
 7291,Krb Retail,BP,Kegworth Service Station,Derby,DE74 2EN,52.8381,-1.28291,1,0,0,0,0,1,0,0,0,0,East Midlands,England
 7292,Rontec Beverley,Shell,Eastfields Road,East Riding,HU17 0XL,53.83456,-0.40797,0,0,0,0,0,1,0,1,1,1,Yorkshire and the Humber,England
-7293,Asda Chalk Express Petrol,Esso,Rochester Road,Gravesend,DA12 4TN,51.43171,0.39596,0,0,0,0,0,1,0,0,0,0,South East,England
+7293,Asda Chalk Express Petrol,Asda,Rochester Road,Gravesend,DA12 4TN,51.43171,0.39596,0,0,0,0,0,1,0,0,0,0,South East,England
 7294,Asda Hanford Express Petrol,Esso,Stone Road A34,Stoke-On-Trent,ST4 4QB,52.98,-2.2,0,0,0,0,0,1,0,1,0,0,West Midlands,England
 7295,Pgg Ewell,Valero,242 Ruxley Lane,West Ewell,KT19 9EY,51.36106,-0.28037,0,0,0,0,0,1,0,1,0,0,South East,England
 7296,Kaj & A Hazlett,Scottish Fuels,Town End Garage,Carnforth,LA6 2RX,54.20963,-2.57901,0,0,0,0,0,1,0,0,0,1,North West,England
@@ -7646,7 +7646,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 7649,Eurospar Dungiven,Eurospar Dungiven,"Eurospar Dungiven Ltd, 39, Station Road, Dungiven, Londonderry, Bt47 4Ln",Londonderry,BT47 4LN,54.92842,-6.92135,1,0,0,0,0,1,0,0,0,0,Northern Ireland,Northern Ireland
 7650,Shell Hawley,Shell,Hawley Road,Dartford,DA1 1PU,51.42902,0.2234,0,0,0,0,0,1,0,1,1,1,South East,England
 7651,Esso - Riffa Serviuce Station,Esso,Riffa Service Station,Otley,LS21 2PS,53.91359,-1.61826,0,0,0,0,0,1,0,0,1,1,Yorkshire and the Humber,England
-7652,Asda Cwmbran Express Petrol,Esso,Henllys Way,Newport,NP44 3JA,51.645,-3.025,0,0,0,0,0,1,0,1,0,0,Wales,Wales
+7652,Asda Cwmbran Express Petrol,Asda,Henllys Way,Newport,NP44 3JA,51.645,-3.025,0,0,0,0,0,1,0,1,0,0,Wales,Wales
 7653,Rontec Keynsham,Esso,Bath Road,Keynsham,BS31 1TN,51.41015,-2.47423,0,0,0,0,1,1,0,1,1,1,South West,England
 7654,Helmington Row Filling Station,Esso,Helmington Row Filling Station,,DL15 0RW,54.71209,-1.71514,0,0,0,0,0,1,0,0,1,1,North East,England
 7655,Spar Belt Road,Texaco,Spar Stores,Londonderry,BT47 2LW,54.9796,-7.30039,1,0,0,0,0,1,0,0,0,1,Northern Ireland,Northern Ireland
