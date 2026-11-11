@@ -5183,7 +5183,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 5186,Mfg Measham,Esso,Ashby Road / New Street,Measham / Swadlincote,DE12 7JW,52.70974,-1.50335,0,0,0,0,0,1,0,1,1,1,East Midlands,England
 5187,Jewells Cross Service Station,Jewells Cross Service Station,Jewells Cross Service Station,Holsworthy,EX22 7EY,50.8013,-4.4633,0,0,0,0,0,1,0,0,0,1,South West,England
 5188,Mfg Oyster Lane,BP,111 Oyster Lane,Byfleet,KT14 7JH,51.34638,-0.48058,0,0,0,0,0,1,0,0,1,0,South East,England
-5189,Shell Little Waitrose Broxbourne,Shell,"Shell, 197, High Road, Broxbourne, En10 6Py",,EN10 6PY,51.73796,-0.02208,0,0,0,0,0,1,0,0,0,1,East of England,England
+5189,Shell Little Waitrose Broxbourne,Shell,"Shell, 197, High Road, Broxbourne, En10 6Py",,EN10 6PY,51.73796,-0.02208,0,0,1,0,0,1,0,0,0,1,East of England,England
 5190,Sunningvale Service Station,Sunningvale Service Station,"Sunningvale Service Station, Sunningvale Avenue, Biggin Hill, Westerham, Tn16 3Tl",Westerham,TN16 3TL,51.30795,0.03256,0,0,0,0,0,0,0,0,0,0,South East,England
 5191,Kirks Korner Ltd,Kirks Korner Ltd,Kirks Korner,Scunthorpe,DN15 8DR,53.59834,-0.67984,0,0,0,0,1,0,0,0,0,0,Yorkshire and the Humber,England
 5192,Mile End Service Station,Esso,Mile End Service Station,Castell-Nedd,SA11 2ED,51.65228,-3.81396,0,0,0,0,0,1,0,1,1,1,Wales,Wales
