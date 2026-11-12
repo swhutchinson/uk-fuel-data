@@ -7718,7 +7718,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 7721,Maxol Glenabbey,Maxol,492 Antrim Road,Belfast,BT36 8DB,54.6761,-5.9714,1,0,0,0,0,1,0,0,0,1,Northern Ireland,Northern Ireland
 7722,Broughtonlane Srvice Station,Texaco,Texaco,Manchester,M8 9UE,53.49502,-2.25309,1,0,0,0,0,1,0,1,0,0,North West,England
 7723,Shell Etwelle,Shell,Ewell By Pass,Ewell,KT17 2PU,51.35451,-0.24678,0,0,0,0,0,1,0,0,0,1,South East,England
-7724,Littleport Sf Connect,BP,Wisbech Road,Ely,CB6 1JJ,52.46248,0.28743,0,0,0,0,0,1,0,0,0,1,East of England,England
+7724,Littleport Sf Connect,Littleport Sf Connect,Wisbech Road,Ely,CB6 1JJ,52.46248,0.28743,0,0,1,0,0,1,0,0,0,1,East of England,England
 7725,Adel Sf Connect,BP,503 Otley Road,Leeds,LS16 7NR,53.85581,-1.59123,0,0,0,0,0,1,0,0,0,1,Yorkshire and the Humber,England
 7726,Whitehill Service Station,Shell,Whitehill Service Station,Henley-On-Thames,RG9 3EP,51.539,-0.87659,0,0,0,0,0,1,0,0,0,1,South East,England
 7727,J T Lord & Son Sleaford Ltd,Pace,J T Lord & Son & (Sleaford) Ltd,Sleaford,NG34 7HH,52.9979,-0.4042,0,0,0,0,0,1,0,0,0,0,East Midlands,England
