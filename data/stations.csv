@@ -443,7 +443,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 442,Primrose Valley Service Station,Jet,Primrose Valley Road,Filey,YO14 9QR,54.187,-0.2967,0,0,0,0,0,1,0,0,1,0,Yorkshire and the Humber,England
 443,Eden Garage,Eden Garage,"Eden Garage, Temple Sowerby, Penrith, Ca10 1Rs",Penrith,CA10 1RS,54.63454,-2.6005,0,0,0,0,0,0,0,0,0,0,North West,England
 444,Prospect Garage,Prospect Garage,Jet Petrol Station,Normanton,WF6 2HL,53.70463,-1.40469,0,0,0,0,0,1,0,0,0,0,Yorkshire and the Humber,England
-445,Shell Co-Op Bridgwater,Shell,Old Works Road,Dunball,TA6 4BQ,51.16518,-2.99013,0,0,0,0,1,1,0,1,1,1,South West,England
+445,Shell Co-Op Bridgwater,Shell,Old Works Road,Dunball,TA6 4BQ,51.16518,-2.99013,0,0,1,0,1,1,0,1,1,1,South West,England
 446,Cardiff Pengam Extra - Petrol Filling Station,Tesco,Tesco Extra,Caerdydd,CF24 2HP,51.48749,-3.12726,1,0,0,0,0,1,0,0,1,0,Wales,Wales
 447,Sainsburys Kings Lynn,Sainsbury's,Scania Way,King'S Lynn,PE30 4LR,52.74032,0.41732,1,0,0,0,0,1,0,0,1,0,East of England,England
 448,Pgg Oxlow,Valero,260 Oxlow Lane,Dagenham,RM10 7YX,51.55105,0.15481,0,0,0,0,0,1,0,1,1,0,London,England
@@ -1168,7 +1168,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 1169,Shell Brocton Garage,Shell,"J S K Services Ltd, Brocton Garage, Cannock Road, Brocton, Stafford, St17 0Su",Stafford,ST17 0SU,52.77242,-2.06428,0,0,0,0,0,1,0,0,1,0,West Midlands,England
 1170,Smithy View Service Station Acton,Smithy View Service Station Acton,Smithy View Service Station,Wrecsam,LL12 8DY,53.06877,-2.99081,0,0,0,0,0,1,1,0,1,1,Wales,Wales
 1171,Cranfield Sf Connect,BP,Cranfield Park Road,Wickford,SS12 9FG,51.60025,0.51911,0,0,0,0,0,1,0,1,1,1,East of England,England
-1172,Shell Hazelgrove,Shell,A303 Sparkford,Yeovil,BA22 7JE,51.0305,-2.57291,0,0,0,0,1,1,0,1,1,1,South West,England
+1172,Shell Hazelgrove,Shell,A303 Sparkford,Yeovil,BA22 7JE,51.0305,-2.57291,0,0,1,0,1,1,0,1,1,1,South West,England
 1173,Rockhead Garage,Gulf,Rockhead Garage,Delabole,PL33 9BT,50.6286,-4.72652,0,0,0,0,0,1,0,0,0,0,South West,England
 1174,Duncan Mcleod & Sons,Duncan Mcleod & Sons,Netherbrae Garage,Turriff,AB53 5SH,57.6268,-2.33168,0,0,0,0,0,1,0,0,0,0,Scotland,Scotland
 1175,Locking Road Services 24X7,Gulf,Locking Road Services 24X7,Weston-Super-Mare,BS22 8NH,51.3492,-2.94878,1,0,0,0,0,1,0,1,1,0,South West,England
@@ -1621,7 +1621,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 1623,Applegreen Lisburn South Services Area,Applegreen,M1 Southbound,Lisburn,BT27 5TL,54.52603,-6.00188,0,1,0,0,1,1,0,1,0,1,Northern Ireland,Northern Ireland
 1624,Sainsburys Warren Heath,Sainsbury's,Felixstowe Road,Ipswich,IP3 8TQ,52.03583,1.20846,1,0,0,0,0,1,0,0,1,0,East of England,England
 1625,Sainsburys Reedswood,Sainsbury's,Reedswood Way,Walsall,WS2 8XA,52.59652,-1.99977,1,0,0,0,0,1,0,0,1,0,West Midlands,England
-1626,Shell Magna,Shell,Burton Road,Swadlincote,DE12 7AP,52.68787,-1.54746,0,0,0,0,1,1,0,1,0,1,East Midlands,England
+1626,Shell Magna,Shell,Burton Road,Swadlincote,DE12 7AP,52.68787,-1.54746,0,0,1,0,1,1,0,1,0,1,East Midlands,England
 1627,Mfg Morrisons Strood,Morrisons,Knight Road,Strood,ME2 2AU,51.3919,0.49167,1,0,0,0,0,1,1,1,1,0,South East,England
 1628,Maxol Belvoir Milltown Road,Maxol,60 Milltown Road,Belfast,BT8 4XP,54.5469,-5.93758,1,0,0,0,0,1,0,0,1,1,Northern Ireland,Northern Ireland
 1629,Murco Partington Service Station,Murco,Murco Partington Service Station,Manchester,M31 4RB,53.41923,-2.42545,0,0,0,0,0,1,0,1,0,0,North West,England
@@ -1829,7 +1829,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 1831,Toddington South Service Area,BP,Toddington Service Area,Toddington,LU5 6HR,51.9482,-0.50136,0,1,0,0,1,1,0,1,0,1,East of England,England
 1832,Shires Garage,Esso,Shires Garage,Langport,TA10 9SQ,51.04248,-2.82401,0,0,0,0,0,1,0,0,1,0,South West,England
 1833,Sainsburys Penzance,Sainsbury's,Eastern Green,Cornwall,TR18 3AP,50.12882,-5.51689,1,0,0,0,0,1,0,0,1,0,South West,England
-1834,Shell Little Waitrose Tubs Hill,Shell,London Road,Sevenoaks,TN13 1DH,51.27776,0.1798,0,0,0,0,0,1,0,1,0,1,South East,England
+1834,Shell Little Waitrose Tubs Hill,Shell,London Road,Sevenoaks,TN13 1DH,51.27776,0.1798,0,0,1,0,0,1,0,1,0,1,South East,England
 1835,Eg Long Eaton Pfs,Valero,"Wilsthorpe Road,",Nottingham,NG10 3JX,52.8867,-1.28722,0,0,0,0,0,1,0,1,0,0,East Midlands,England
 1836,Asda Millbrook Express Petrol,Asda,Millbrook Road,Southampton,SO15 0JU,50.91307,-1.44424,0,0,0,0,0,1,0,1,1,1,South East,England
 1837,Bp Binley Road Service Station,BP,Binley Road Service Station,Coventry,CV3 1HB,52.40608,-1.47552,0,0,0,0,0,1,0,1,1,1,West Midlands,England
@@ -2828,7 +2828,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 2830,Eg Wetley Rocks Pfs,Valero,"679, Cheadle Road",Stoke-On-Trent,ST9 0BA,53.04252,-2.05185,0,0,0,0,0,1,0,1,0,1,West Midlands,England
 2831,Branstons Sf Connect,BP,1487 Melton Road,Leicester,LE7 3FP,52.70503,-1.05965,0,0,0,0,0,1,0,1,1,1,East Midlands,England
 2832,Glasshoughton Service Station,BP,Bp Glasshoughton Service Station,Castleford,WF10 4RJ,53.7122,-1.33396,0,0,0,0,1,1,1,1,1,0,Yorkshire and the Humber,England
-2833,Shell Balhaldie,Shell,A9 Southbound,Dunblane,FK15 0NB,56.22522,-3.91515,0,0,0,0,1,1,0,1,0,1,Scotland,Scotland
+2833,Shell Balhaldie,Shell,A9 Southbound,Dunblane,FK15 0NB,56.22522,-3.91515,0,0,1,0,1,1,0,1,0,1,Scotland,Scotland
 2834,S R Services,Texaco,Total Uk,Grays,RM20 3JT,51.47634,0.27111,1,0,0,0,1,1,0,1,0,0,East of England,England
 2835,Shell Braidburn,Shell,277 Comiston Road,Edinburgh,EH10 6AP,55.9182,-3.2127,0,0,0,0,0,1,0,1,0,1,Scotland,Scotland
 2836,Mfg Jackmans,BP,Baldock Road,Letchworth Garden City,SG6 2EJ,51.97635,-0.21077,0,0,0,0,0,1,0,0,1,1,East of England,England
@@ -2965,7 +2965,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 2967,Highland Fuels Ltd,Esso,Esso Service Station,Ardrossan,KA22 8JU,55.64708,-4.80917,0,0,0,0,0,1,0,0,1,0,Scotland,Scotland
 2968,Mfg Rose Cottage,BP,159 Kingston Road,New Malden,KT3 3NS,51.40148,-0.26721,0,0,0,0,0,1,0,1,1,0,London,England
 2969,Exelby Services Whitwood,Shell,Exelby Services Whitwood,Castleford,WF10 5QH,53.71254,-1.39977,0,0,0,0,1,1,0,1,0,1,Yorkshire and the Humber,England
-2970,Shell Little Waitrose Stoughton,Shell,200-202 Worplesdon Road,Guildford,GU2 9UY,51.25662,-0.5941,0,0,0,0,0,1,0,1,0,1,South East,England
+2970,Shell Little Waitrose Stoughton,Shell,200-202 Worplesdon Road,Guildford,GU2 9UY,51.25662,-0.5941,0,0,1,0,0,1,0,1,0,1,South East,England
 2971,Shell Plough Lane,Shell,59 Plough Lane,London,SW17 0BW,51.43,-0.18583,0,0,0,0,0,1,0,1,0,1,London,England
 2972,Ribblevalley Forecourt Ltd,Texaco,Texaco,Burnley,BB12 7NZ,53.80685,-2.35145,0,0,0,0,0,1,0,0,0,0,North West,England
 2973,Nicholl Auto 365 Curran Road Larne,Nicholl Auto 365 Curran Road Larne,104 Curran Road,Larne,BT40 1BX,54.85135,-5.80487,0,0,0,0,0,0,0,1,0,0,Northern Ireland,Northern Ireland
@@ -3115,7 +3115,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 3117,Spar Loughgall Road,Solo,Spar Stores,Craigavon,BT62 4BU,54.42145,-6.45985,1,0,0,0,0,1,0,0,1,0,Northern Ireland,Northern Ireland
 3118,Sainsburys Colchester Avenue,Sainsbury's,Colchester Avenue,Cardiff,CF23 9XN,51.49617,-3.14657,1,0,0,0,0,1,0,0,0,0,Wales,Wales
 3119,Rontec Ringwood,Esso,The Bridges,Ringwood,BH24 2AA,50.84584,-1.79919,0,0,0,0,0,1,0,1,1,1,South East,England
-3120,Shell Sunbury,Shell,74 Country Way,Hanworth,TW13 6QN,51.43411,-0.3883,0,0,0,0,0,1,0,1,0,1,London,England
+3120,Shell Sunbury,Shell,74 Country Way,Hanworth,TW13 6QN,51.43411,-0.3883,0,0,1,0,0,1,0,1,0,1,London,England
 3121,Centra Banbridge Church Street,Circle K,23A Church Street,Banbridge,BT32 4AA,54.3529,-6.26741,0,0,0,0,0,1,0,0,0,0,Northern Ireland,Northern Ireland
 3122,Asda Stow Hill Express Petrol,Esso,Stow Hill,Newport,NP20 4GA,51.58277,-3.00154,0,0,0,0,0,1,0,1,1,0,Wales,Wales
 3123,Bigdale Service Station,Murco,"Bigdale Service Station, Bigdale Drive, Liverpool, L33 6Xg",Liverpool,L33 6XG,53.48488,-2.87616,0,0,0,0,0,1,0,1,0,0,North West,England
@@ -5756,7 +5756,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 5760,Patterson Texaco Centra Gilford Road,Texaco,Patterson Oil,Craigavon,BT63 5LG,54.40074,-6.39565,1,0,0,0,1,1,0,1,1,0,Northern Ireland,Northern Ireland
 5761,Steve Wood Motors Ltd,Steve Wood Motors Ltd,Steve Wood Motors,Mablethorpe,LN12 2HE,53.31225,0.27981,0,0,0,0,0,0,0,0,0,0,East Midlands,England
 5762,Chard Superstore - Petrol Filling Station,Tesco,Tapstone Rd,Chard,TA20 2LW,50.87407,-2.95416,1,0,0,0,0,1,0,0,0,1,South West,England
-5763,Shell Little Waitrose Burgh,Shell,Brighton Road,Tadworth,KT20 6AA,51.30632,-0.21984,0,0,0,0,0,1,0,1,0,1,South East,England
+5763,Shell Little Waitrose Burgh,Shell,Brighton Road,Tadworth,KT20 6AA,51.30632,-0.21984,0,0,1,0,0,1,0,1,0,1,South East,England
 5764,Wilmslow Sf Connect,BP,Alderley Road,Wilmslow,SK9 1HT,53.32564,-2.23052,0,0,0,0,0,1,0,0,0,1,North West,England
 5765,Clifton Service Station,BP,Clifton Service Station,,NE61 6DG,55.14179,-1.6843,0,0,0,0,0,1,0,0,1,1,North East,England
 5766,Barnard Of Wisbech,Rocket Fuels,Barnards Of Wisbech,Wisbech,PE13 5DR,52.67506,0.1457,0,0,0,0,0,0,0,0,0,0,East of England,England
@@ -6438,7 +6438,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 6442,Shell Waitrose Sheffield,Shell,Boston Street,Sheffield,S2 4QF,53.37212,-1.47784,0,0,0,0,0,0,0,0,0,1,Yorkshire and the Humber,England
 6443,Focus Motor Store Ltd,Jet,Focus Motor Store Ltd,Dumfries,DG2 9DX,55.07087,-3.6296,0,0,0,0,0,0,0,0,1,0,Scotland,Scotland
 6444,Shell Wirral Way,Shell,413 Borough Road,Birkenhead,CH42 0HA,53.38404,-3.03291,0,0,0,0,0,1,0,1,0,1,North West,England
-6445,Shell Co-Op Queenborough,Shell,265-269 Queenborough Road,Minster On Sea,ME12 3EW,51.41464,0.75856,0,0,0,0,1,1,0,1,1,1,South East,England
+6445,Shell Co-Op Queenborough,Shell,265-269 Queenborough Road,Minster On Sea,ME12 3EW,51.41464,0.75856,0,0,1,0,1,1,0,1,1,1,South East,England
 6446,Besthorpe Sf Connect,BP,Attleborough Bypass,Attleborough,NR17 2LB,52.53184,1.05124,0,0,0,0,1,1,0,1,0,1,East of England,England
 6447,Bishops Garages,Bishops Garages,"Bishops Garages Ltd, Main Street, Corbridge, Ne45 5Lb",Corbridge,NE45 5LB,54.97383,-2.01694,1,0,0,0,0,1,0,0,0,1,North East,England
 6448,Tarbock Woodlands Esso Express,Esso,Cronton Road,Prescot,L35 1QY,53.39817,-2.81805,0,0,0,0,0,1,0,0,0,0,North West,England
@@ -8154,3 +8154,5 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 8161,Mossfield Service Station,Shell,"Mossfield Service Station, Dividy Road, Stoke-On-Trent, St2 0Jb",Stoke-On-Trent,ST2 0JB,53.00768,-2.12562,1,0,0,0,0,1,0,1,1,1,West Midlands,England
 8162,Longton Service Station,Shell,"Longton Service Station, 171, Sutherland Road, Stoke-On-Trent, St3 1Hz",Stoke-On-Trent,ST3 1HZ,52.9858,-2.12393,1,0,0,0,0,1,0,1,1,1,West Midlands,England
 8163,Johnstone'S Garage Ltd,Texaco,"Johnstone'S Garage Ltd, North Road, Kirkby Stephen, Ca17 4Rp",Kirkby Stephen,CA17 4RP,54.47621,-2.35,0,0,0,0,0,1,0,0,0,1,North West,England
+8164,Oakdale,Oakdale,Southport Road,Chorly,PR26 8LP,51.5033,0.1195,0,0,0,0,0,0,0,0,0,0,North West,England
+8165,Lawton Services Ltd,Lawton Services Ltd,"Lawton Services Ltd, Knutsford Road, Church Lawton, Stoke-On-Trent, St7 3Dn",Stoke-On-Trent,ST7 3DN,53.10033,-2.28704,0,0,0,0,0,0,0,0,0,0,West Midlands,England
