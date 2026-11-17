@@ -5507,7 +5507,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 5511,Wellington Road Service Station,Texaco,Texaco Petrol Station,Taunton,TA1 5LU,51.01173,-3.13007,0,0,0,0,1,1,0,0,1,0,South West,England
 5512,Maypole Service Station,Texaco,Save Service Station,Birmingham,B14 5HH,52.41026,-1.88735,1,0,0,0,0,1,0,1,1,1,West Midlands,England
 5513,Asda Charlton Superstore,Asda,"Bugsby Way, Charlton",London,SE7 7ST,51.48928,0.02391,1,0,0,0,0,1,0,1,0,1,London,England
-5514,Hicksons Forecourt Ltd,Shell,Bp Filling Station,Lincoln,LN6 0JB,53.22227,-0.59336,0,0,0,0,0,1,0,0,0,1,East Midlands,England
+5514,Hicksons Forecourt Ltd,Shell,Bp Filling Station,Lincoln,LN6 0JB,53.22227,-0.59336,0,0,0,0,1,1,0,0,0,1,East Midlands,England
 5515,Mfg Hyde Road,Esso,Hyde Road,Mottram,SK14 6NG,53.45633,-2.01689,0,0,0,0,0,1,0,1,0,1,North West,England
 5516,Chalfonts Way Sf Connect,BP,66 White Lion Road,Amersham,HP7 9JS,51.67147,-0.58346,0,0,0,0,0,1,0,1,1,1,South East,England
 5517,Triangle Meteor,BP,Meteor Service Station,Brough,HU15 2SL,53.75419,-0.73996,0,0,0,0,0,1,0,1,1,1,Yorkshire and the Humber,England
@@ -8156,3 +8156,5 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 8163,Johnstone'S Garage Ltd,Texaco,"Johnstone'S Garage Ltd, North Road, Kirkby Stephen, Ca17 4Rp",Kirkby Stephen,CA17 4RP,54.47621,-2.35,0,0,0,0,0,1,0,0,0,1,North West,England
 8164,Oakdale,Oakdale,Southport Road,Chorly,PR26 8LP,51.5033,0.1195,0,0,0,0,0,0,0,0,0,0,North West,England
 8165,Lawton Services Ltd,Lawton Services Ltd,"Lawton Services Ltd, Knutsford Road, Church Lawton, Stoke-On-Trent, St7 3Dn",Stoke-On-Trent,ST7 3DN,53.10033,-2.28704,0,0,0,0,0,0,0,0,0,0,West Midlands,England
+8166,Bata Gate Helmsley,Bata Gate Helmsley,Stamford Bridge Road,York,YO41 1NF,53.9869,-0.95314,1,0,0,0,0,1,1,0,1,1,Yorkshire and the Humber,England
+8167,Bata Helmsley Garage,Bata Helmsley Garage,"Bondgate Garage, Bondgate, Helmsley, York, Yo62 5Ez",York,YO62 5EZ,54.24697,-1.05621,1,0,0,0,0,1,0,0,1,1,Yorkshire and the Humber,England
